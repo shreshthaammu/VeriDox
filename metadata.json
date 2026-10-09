@@ -1,0 +1,6 @@
+{
+  "name": "VeriDox - Digital Document Verification & Trust Platform",
+  "description": "Enterprise-grade digital document verification, cryptographic SHA-256 integrity checking, QR trust verification, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
